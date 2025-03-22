@@ -28,3 +28,11 @@ Assim, percebe-se um padrão que permite criar um algoritmo recursivo para calcu
 > 1. Para cada erro calcule um cenário para cada momento possível do erro, duplicando uma vez cada fração da cadeia de frações que compõe o jogo perfeito para cada cenário, a partir da posição onde ocorreu o erro anterior.
 > 2. Ao calcular todos os cenários possíveis, some as probabilidades.
  
+## O Teste
+
+Para ter valores de teste exatos, os calculos para um jogo de 6 peças foram feitos manualmente em uma planilha do Excel para casos com 7, 8, 9 e 10 tentativas. Comparando os resultados obtidos com os calculados pelo algoritmo, a precisão foi de 100%.
+
+<p align="center">
+  <img src="https://i.ibb.co/tTN89JfB/preview.png" /></br>
+ Valores calcualdos manualmente
+</p>
