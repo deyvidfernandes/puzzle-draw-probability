@@ -25,6 +25,6 @@ $\huge \frac{5}{6}\cdot \frac{4!}{6\cdot 4} + \huge \frac{5}{6}\cdot \huge \frac
 
 Assim, percebe-se um padrão que permite criar um algoritmo recursivo para calcular os percentuais de todos os cenários possíveis e somá-lo para obter a probabilidade de vitória:
 
-> 1. Para cada erro calcule um cenário para cada momento possível do erro, dupicando uma vez cada fração da cadeia de frações que compõe o jogo perfeito, a partir da posição onde ocorreu o erro anterior.
+> 1. Para cada erro calcule um cenário para cada momento possível do erro, duplicando uma vez cada fração da cadeia de frações que compõe o jogo perfeito para cada cenário, a partir da posição onde ocorreu o erro anterior.
 > 2. Ao calcular todos os cenários possíveis, some as probabilidades.
  
