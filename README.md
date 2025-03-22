@@ -4,6 +4,8 @@
 
 Um algoritmo para calcular a probabilidade de ser contemplado em um jogo de sorteio de peças estilo quebra-cabeça onde as peças podem ser acumuladas, dado um determinado número de tentativas. 
 
+<p align="center"> <img src="https://i.ibb.co/27MPzDN4/image.png" /></br> Um exemplo desse estilo de jogo (Obra: Under the Wave off Kanagawa - Katsushika Hokusai)</p> 
+
 ## A Origem do Problema
 
 A empresa Opera promoveu uma campanha promocional chamada "Chacoalhe e Concorra", onde os critérios para a contemplação seguiam o especificado acima. Em um ponto onde acumulei 21 peças para um quebra-cabeça de apenas 6, me interessei por calcular a probabilidade de tal cenário (12,74% de chance).
