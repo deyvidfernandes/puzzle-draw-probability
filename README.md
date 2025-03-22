@@ -6,7 +6,7 @@ Um algoritmo para calcular a probabilidade de ser contemplado em um jogo de sort
 
 ## A Origem do Problema
 
-A empresa Opera promoveu uma campanha promocional chamada "Chacoalhe e Concorra" onde os critérios para a contemplação seguiam o especificado acima. Em um ponto onde acumulei 21 peças para um quebra-cabeça de apenas 6, me interessei por calcular a pobsbilidade de tal cenário (12,74% de chance).
+A empresa Opera promoveu uma campanha promocional chamada "Chacoalhe e Concorra", onde os critérios para a contemplação seguiam o especificado acima. Em um ponto onde acumulei 21 peças para um quebra-cabeça de apenas 6, me interessei por calcular a probabilidade de tal cenário (12,74% de chance).
 
 ## O Algoritmo
 
@@ -30,9 +30,6 @@ Assim, percebe-se um padrão que permite criar um algoritmo recursivo para calcu
  
 ## O Teste
 
-Para ter valores de teste exatos, os calculos para um jogo de 6 peças foram feitos manualmente em uma planilha do Excel para casos com 7, 8, 9 e 10 tentativas. Comparando os resultados obtidos com os calculados pelo algoritmo, a precisão foi de 100%.
+Para ter valores de teste exatos, os cálculos para um jogo de 6 peças foram feitos manualmente em uma planilha do Excel para casos com 7, 8, 9 e 10 tentativas. Comparando os resultados obtidos com os calculados pelo algoritmo, a precisão foi de 100%.
 
-<p align="center">
-  <img src="https://i.ibb.co/tTN89JfB/preview.png" /></br>
- Valores calcualdos manualmente
-</p>
+<p align="center"> <img src="https://i.ibb.co/tTN89JfB/preview.png" /></br> Valores calculados manualmente </p> 
